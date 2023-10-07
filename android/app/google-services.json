@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144136303561",
+    "project_id": "service-provider-codesonbyte",
+    "storage_bucket": "service-provider-codesonbyte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144136303561:android:e2776900c352bb339eae18",
+        "android_client_info": {
+          "package_name": "com.example.service_provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUm-ZJPw0jX_2BYJ2CPJpqeFzjnhnueAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
